@@ -7,7 +7,7 @@ export default function About() {
       {/* 상단 네비 */}
       <header className="sticky top-0 z-40 bg-white/60 backdrop-blur border-b border-white/40">
         <nav className="mx-auto max-w-5xl px-4 py-3 flex items-center justify-between">
-          <Link href="/" className="font-extrabold tracking-tight">EUNWOO</Link>
+          <Link href="/" className="font-extrabold tracking-tight">About eunwoo</Link>
           <ul className="flex items-center gap-4 text-lg">
             <li><Link className="hover:text-blue-600" href="/">Home</Link></li>
             <li><Link className="text-blue-700 font-semibold" href="/about">About</Link></li>
@@ -23,7 +23,7 @@ export default function About() {
             {/* 프로필 이미지 */}
             <div className="relative h-28 w-28 overflow-hidden rounded-full ring-4 ring-white/60 shadow-md bg-white">
               <Image
-                src="/profile.jpg"
+                src="/프로필 사진.jpg"
                 alt="정은우 프로필"
                 fill
                 sizes="112px"
@@ -50,7 +50,7 @@ export default function About() {
               </a>
               <a
                 className="px-3 py-1 rounded-md bg-white/70 hover:bg-white transition shadow"
-                href="https://github.com/6th-PARD-WEB-PART/Jung-Eun-Woo-.git"
+                href="https://github.com/6th-PARD-WEB-PART/Jungeunwoo-.git"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -75,28 +75,24 @@ export default function About() {
                 <span className="px-2.5 py-1 rounded-md bg-blue-50 text-blue-700 border border-blue-200 text-sm">경상북도 경산시에 거주 중</span>
                 <span className="px-2.5 py-1 rounded-md bg-blue-50 text-blue-700 border border-blue-200 text-sm">무교</span>
                 <span className="px-2.5 py-1 rounded-md bg-blue-50 text-blue-700 border border-blue-200 text-sm">현재 4학기째</span>
+                <span className="px-2.5 py-1 rounded-md bg-blue-50 text-blue-700 border border-blue-200 text-sm">동아리 처음 해봄</span>
               </div>
             </div>
 
-            {/* Tools 카드 */}
             <div className="rounded-xl bg-white/70 p-5 shadow">
-              <h3 className="font-semibold">Build & Tools</h3>
+              <h3 className="font-semibold">배운 언어</h3>
               <div className="mt-3 flex flex-wrap gap-2">
-                <span className="px-2.5 py-1 rounded-md bg-blue-50 text-blue-700 border border-blue-200 text-sm">Vite</span>
-                <span className="px-2.5 py-1 rounded-md bg-blue-50 text-blue-700 border border-blue-200 text-sm">Turbopack</span>
-                <span className="px-2.5 py-1 rounded-md bg-blue-50 text-blue-700 border border-blue-200 text-sm">ESLint/Prettier</span>
-                <span className="px-2.5 py-1 rounded-md bg-blue-50 text-blue-700 border border-blue-200 text-sm">pnpm/npm</span>
+                <span className="px-2.5 py-1 rounded-md bg-blue-50 text-blue-700 border border-blue-200 text-sm">C,C++</span>
+                <span className="px-2.5 py-1 rounded-md bg-blue-50 text-blue-700 border border-blue-200 text-sm">JAVA</span>
               </div>
             </div>
 
-            {/* Others 카드 */}
             <div className="rounded-xl bg-white/70 p-5 shadow">
-              <h3 className="font-semibold">Others</h3>
+              <h3 className="font-semibold">기타</h3>
               <div className="mt-3 flex flex-wrap gap-2">
-                <span className="px-2.5 py-1 rounded-md bg-blue-50 text-blue-700 border border-blue-200 text-sm">REST API</span>
-                <span className="px-2.5 py-1 rounded-md bg-blue-50 text-blue-700 border border-blue-200 text-sm">Git/GitHub</span>
-                <span className="px-2.5 py-1 rounded-md bg-blue-50 text-blue-700 border border-blue-200 text-sm">Figma</span>
-                <span className="px-2.5 py-1 rounded-md bg-blue-50 text-blue-700 border border-blue-200 text-sm">Vercel</span>
+                <span className="px-2.5 py-1 rounded-md bg-blue-50 text-blue-700 border border-blue-200 text-sm">ESTP</span>
+                <span className="px-2.5 py-1 rounded-md bg-blue-50 text-blue-700 border border-blue-200 text-sm">요새 좀 피곤함</span>
+                <span className="px-2.5 py-1 rounded-md bg-blue-50 text-blue-700 border border-blue-200 text-sm">아직 코딩이나 개발쪽에 자신이 별로 없음</span>
               </div>
             </div>
           </div>
@@ -117,7 +113,7 @@ export default function About() {
               <span className="mt-1 text-sm text-slate-600 shrink-0 w-24">2023</span>
               <p className="leading-relaxed">
                 23년 4월 17일 논산 훈련소 입소, 운전병 특기 지원으로 종합군수학교에서 교육을 받은 뒤 철원 3사단 백골부대 전입이 결정된 후 절망에 빠짐.<br/>
-                전입 후 선임들의 부조리와 철원의 겨울을 견딘다.
+                전입 후 가끔 북한군과 인사도 하고 선임들의 부조리와 철원의 겨울을 견딘다.
               </p>
             </li>
             <li className="rounded-lg bg-white/70 p-4 shadow flex items-start gap-3">
@@ -132,7 +128,7 @@ export default function About() {
               <p className="leading-relaxed">
                 2025년 3월 다시 한동으로 돌아오게 됨. 2년만에 학교에 돌아와서 감회가 새로웠고 첫 전공공부를 시작함.<br/>
                 1학년때의 업보를 청산하기 위해 여름계절로 완진 킴의 성경의 이해를 수강.<br/>
-                그러던중 파드를 하는 사람들에게서 추천을 받고 파드 6기 웹 파트에 지원하게 된다.
+                그러던중 파드를 하는 사람들에게서 추천을 받고 파드 6기 웹 파트에 지원하게 됨.
               </p>
             </li>
           </ul>

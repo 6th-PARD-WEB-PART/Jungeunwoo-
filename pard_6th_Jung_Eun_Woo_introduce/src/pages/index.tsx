@@ -20,7 +20,11 @@ export default function Home() {
       <div className="flex flex-grow items-center justify-center -translate-y-32">
         <h1 className="text-4xl font-extrabold text-white drop-shadow-lg">
           안녕하세요, PARD 6기 웹파트 정은우입니다!
+        <p>
+          파드를 통해 더 나은 개발자가 되고 싶습니다!!
+        </p>
         </h1>
+        
         
       </div>
     </div>
