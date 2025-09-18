@@ -6,7 +6,7 @@ export default function Favorites() {
       {/* 상단 네비 */}
       <header className="sticky top-0 z-40 bg-white/60 backdrop-blur border-b border-white/40">
         <nav className="mx-auto max-w-5xl px-4 py-3 flex items-center justify-between">
-          <Link href="/" className="font-extrabold tracking-tight">Favorite</Link>
+          <Link href="/" className="font-extrabold tracking-tight">Favorite page</Link>
           <ul className="flex items-center gap-4 text-lg">
             <li><Link className="hover:text-blue-600" href="/">Home</Link></li>
             <li><Link className="hover:text-blue-600" href="/about">About</Link></li>
@@ -22,7 +22,7 @@ export default function Favorites() {
           <h1 className="text-3xl md:text-4xl font-extrabold tracking-tight">
             <span className="text-blue-800/90">Favorite</span>
           </h1>
-          <p className="mt-3 text-slate-700">음악, 취미, 음식 3가지!</p>
+          <p className="mt-3 text-slate-700">음악, 취미, 음식 3가지!<br/><br/><br/><br/><br/></p>
         </section>
 
         {/* 관심사 카드 */}

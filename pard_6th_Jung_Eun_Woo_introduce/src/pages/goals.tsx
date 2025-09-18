@@ -20,7 +20,7 @@ export default function Goals() {
 
       <main className="mx-auto max-w-4xl px-4 py-12">
         <h1 className="text-3xl font-extrabold mb-8 text-slate-800">
-          이번 학기 목표 
+          이번 학기 목표!!<br/><br/><br/><br/> 
         </h1>
 
         {/* 목표 카드 세로 나열 */}
