@@ -12,7 +12,7 @@ interface Goal {
   possibility: number;
 }
 
-//상속
+//인터페이스 상속
 interface Dificulty extends Goal {
   possibilitylevel?: string;
 }
@@ -73,7 +73,7 @@ export default function Goals() {
         </h1>
 
         <div className="flex flex-col gap-6">
-          
+
           {/* 학업 관련 */}
           <div className="w-full rounded-xl bg-white/80 p-6 shadow hover:shadow-lg transition">
             <h2 className="text-2xl font-bold mb-3">학업 관련</h2>
