@@ -18,7 +18,7 @@ export default function MainSearchBar() {
             aria-label="검색"
             className="w-8 h-8 rounded bg-[#F97316] text-[#FFFFFF] grid place-items-center hover:bg-[#FFEDD5] transition"
           >
-            검색
+            🔍
           </Link>
           <button className="text-sm text-[#374151]">송도동 ▾</button>
         </div>

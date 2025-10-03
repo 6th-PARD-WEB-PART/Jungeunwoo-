@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function SearchBar({ goToMain = false }: { goToMain?: boolean }) {
   const Button = (
     <button className="h-10 px-4 rounded-r bg-[#F97316] text-white font-semibold hover:bg-[#FFEDD5] transition">
-      검색
+      🔍
     </button>
   );
 
