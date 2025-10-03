@@ -14,7 +14,7 @@ export default function ProductCard({ item }: { item: Item }) {
         <p className="mt-1 text-xs text-[#9CA3AF]">{item.meta}</p>
 
         <div className="mt-2 flex items-center justify-between">
-          <button className="px-3 py-[6px] text-xs rounded-full bg-[#F97316] text-[#FFFFFF]">
+          <button className="px-3 py-[6px] text-xs rounded-full bg-[#F97316] text-[#FFFFFF] hover:bg-[#FFEDD5] transition">
             자세히
           </button>
           <div className="flex items-center gap-3 text-[#9CA3AF] text-xs">
