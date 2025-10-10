@@ -20,7 +20,7 @@ export default function MainSearchBar() {
           >
             🔍
           </Link>
-          <button className="text-sm text-[#374151]">송도동 ▾</button>
+          <button className="text-sm text-[#374151]">송도동 ▾</button> 
         </div>
       </div>
 

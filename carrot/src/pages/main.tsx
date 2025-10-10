@@ -1,7 +1,7 @@
-import Header from "@/pages/Header";
+import Header from "@/components/Header";
 import MainSearchBar from "@/pages/MainSearchBar";
 import FiltersSidebar from "@/pages/FiltersSidebar";
-import ProductCard from "@/pages/ProductCard";
+import ProductCard from "@/components/ProductCard";
 
 const items = Array.from({ length: 7 }).map((_, i) => ({
   id: i,
