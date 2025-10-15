@@ -53,7 +53,6 @@ export default function ProductDetailModal({ open, onClose, item }: Props) {
         {/* 좌측: 큰 이미지 + 썸네일 */}
         <div>
           <div className="aspect-[4/3] w-full bg-[#F3F4F6] rounded-lg overflow-hidden">
-            {/* 데모용 플레이스홀더 */}
             <div className="w-full h-full bg-[#FFEDD5]" />
           </div>
 
