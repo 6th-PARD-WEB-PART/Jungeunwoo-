@@ -15,11 +15,11 @@ zuzstand를 활용한 전역 상태 관리
 
 
 반응형 웹 페이지 구현
-
+데스크탑 뷰
 <img width="1000" height="1000" alt="스크린샷 2025-10-17 131001" src="https://github.com/user-attachments/assets/74de1fdf-b093-4a0b-b32e-b40b50acb83f" />
-
+테블릿 뷰
 <img width="1000" height="1000" alt="스크린샷 2025-10-17 130949" src="https://github.com/user-attachments/assets/e8946d41-ef3e-4084-873f-5d2942d2daec" />
-
+모바일 뷰
 <img width="1000" height="1000" alt="스크린샷 2025-10-17 131017" src="https://github.com/user-attachments/assets/6b5e479a-be6e-4b0d-901c-f6dc230ba21e" />
 
 
