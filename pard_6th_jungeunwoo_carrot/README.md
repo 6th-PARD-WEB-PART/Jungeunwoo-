@@ -11,6 +11,9 @@ zuzstand를 활용한 전역 상태 관리
 
 <img width="1000" height="1000" alt="스크린샷 2025-10-17 163904" src="https://github.com/user-attachments/assets/53ff4e5d-8f6e-4e8f-be49-3c7e141c5175" />
 
+
+
+
 반응형 웹 페이지 구현
 
 <img width="1000" height="1000" alt="스크린샷 2025-10-17 131001" src="https://github.com/user-attachments/assets/74de1fdf-b093-4a0b-b32e-b40b50acb83f" />
@@ -18,6 +21,9 @@ zuzstand를 활용한 전역 상태 관리
 <img width="1000" height="1000" alt="스크린샷 2025-10-17 130949" src="https://github.com/user-attachments/assets/e8946d41-ef3e-4084-873f-5d2942d2daec" />
 
 <img width="1000" height="1000" alt="스크린샷 2025-10-17 131017" src="https://github.com/user-attachments/assets/6b5e479a-be6e-4b0d-901c-f6dc230ba21e" />
+
+
+
 
 모바일뷰 메뉴, 필터
 
