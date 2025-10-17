@@ -1,11 +1,8 @@
-# PARD 6기 웹파트 3차 과제
+# PARD 6기 웹파트 5차 과제
 
-Tailwind CSS로 **당근마켓 랜딩 페이지 / 메인 페이지**를 구현하였습니다.  
-라우팅을 적용하여 검색창의 주황색 돋보기를 클릭하면 메인페이지로 이동하는 기능을 구현하였습니다.
+Zustand를 활용하여 랜딩페이지의 검색창에 검색어 입력 후 버튼 클릭 시 입력되 내용이 메인페이지에 보여지도록 구현
 
-# PARD 6기 웹파트 4차 과제
-
-modal추가
+데스크탑,테블릿,모바일버전에 따라 메인페이지에 반응형 레이아웃을 적용
 
 # 실행 화면
 
@@ -14,3 +11,7 @@ modal추가
 <img width="400" height="1200" alt="스크린샷 2025-10-03 223324" src="https://github.com/user-attachments/assets/821b5733-629e-4126-9adc-9fdcb2b8a20e" />
 
 <img width="400" height="1200" alt="스크린샷 2025-10-10 154032" src="https://github.com/user-attachments/assets/85639c6a-ae9b-4a46-b42a-e4a2d30cb3e2" />
+
+<img width="1000" height="1000" alt="스크린샷 2025-10-17 163854" src="https://github.com/user-attachments/assets/ce3cb60f-5f27-431c-b03a-58409dea3b9f" />
+
+<img width="1000" height="1000" alt="스크린샷 2025-10-17 163904" src="https://github.com/user-attachments/assets/53ff4e5d-8f6e-4e8f-be49-3c7e141c5175" />
