@@ -30,7 +30,6 @@ export default function ProductModal({
   onChat,
   liked,
 }: Props) {
-  // Strict Mode 중복 방지
   const viewedOnceRef = useRef(false);
   useEffect(() => {
     if (open && !viewedOnceRef.current) {

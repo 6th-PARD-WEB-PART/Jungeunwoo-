@@ -13,7 +13,7 @@ export default function Home() {
             송도동에서 알바 찾고 계신가요?
           </h1>
 
-          <SearchBar/>
+          <SearchBar/> 
 
           <div className="mt-3 text-sm text-[#374151]">
             인기 검색어:{" "}

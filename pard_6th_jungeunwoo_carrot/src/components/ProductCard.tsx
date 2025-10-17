@@ -1,4 +1,3 @@
-// src/pages/ProductCard.tsx
 import { useState } from "react";
 import ProductModal from "./ProductModal";
 
@@ -45,7 +44,7 @@ export default function ProductCard({ item }: { item: Item }) {
           <p className="mt-1 text-xs text-[#9CA3AF]">{item.meta}</p>
 
           <div className="mt-2 flex items-center justify-between">
-            {/* 자세히 → 모달 열기 */}
+            {/* 모달 열기 */}
             <button
               onClick={openModal}
               className="px-3 py-[6px] text-xs rounded-full bg-[#F97316] text-[#FFFFFF] hover:bg-[#ea6d0f] transition"
